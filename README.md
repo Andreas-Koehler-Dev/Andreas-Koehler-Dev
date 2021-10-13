@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Andreas-Koehler-Dev
+- 👋 Hi, I’m Andreas Koehler from Duesseldorf Germany
 - 👀 I’m interested in Development, Design, Automation and Administration
 - 🌱 I’m currently learning Web-Developement (Full Stack)
 
